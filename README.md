@@ -1,4 +1,4 @@
-### Hi there 👋
+![Alt Text](https://giphy.com/embed/l3UQzZry2QZl6kCBtV)
 
 <!--
 **jarrodli/jarrodli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
